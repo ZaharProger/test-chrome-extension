@@ -1,0 +1,9 @@
+body, html{
+    transition: 0.3s ease-out;
+}
+
+#root{
+    width: 500px;
+    padding: 0;
+    margin: 0;
+}
